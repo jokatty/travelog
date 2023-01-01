@@ -1,0 +1,5 @@
+1. Write User story
+2. Wire diagram
+3. ERD
+4. Backend
+5. Frontend
