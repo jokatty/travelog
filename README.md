@@ -15,3 +15,18 @@ Let's say you have a friend or a family member planning a vation in the same loc
    The app is built on django framework.
 2. Frontend:
    React is used on the frontend
+
+## MVP
+
+- User creation
+- User login
+- See all the trips at one place
+- Share trips
+- Create a trip
+- Choose categories to log:
+  - Travel
+  - Accomodation
+  - Activities / Attractions
+  - Eat out
+  - Avoids
+- Add / edit one of these categories
